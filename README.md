@@ -3,7 +3,7 @@
 ### **Author:** Mariia Sizova | [Github](https://github.com/MariiaSizova)
 ### **Date:**  17.01.2022
 ### **About:** 
-The task was to write a delivery fee calculator. I used FastAPI because its intuitive, requires less code, and as the name suggests its fast! Additionally, I wrote several tests with Pytest that check the basic functinality and some edge cases.
+This API calculates delivery fees. I used FastAPI because its intuitive, requires less code, and as the name suggests its fast! Additionally, I wrote several tests with Pytest that check the basic functinality and some edge cases.
 
 ## **Folder Structure**
 
